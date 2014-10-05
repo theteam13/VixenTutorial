@@ -7,7 +7,6 @@
 //	Define pre-processor macros for DLL export import, and
 //  system macros
 //
-
 #ifdef _WIN32
 
 	#define VIX_SYS_WINDOWS

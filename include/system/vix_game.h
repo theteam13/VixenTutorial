@@ -3,7 +3,7 @@
 
 #include <vix_platform.h>
 
-class Game
+class VIX_API Game
 {
 public:
 	Game();
